@@ -78,6 +78,9 @@ https://sodocumentation.net/lua/topic/671/introduction-to-lua-c-api
 ### Minimum size valid files  
 https://github.com/mathiasbynens/small  
   
+### Object Shadowing using Iframes 
+https://github.com/wisec/domxsswiki/wiki/Object-Shadowing  
+
 ### Timing attacks on web  
 https://www.tadgroup.com/blog/post/timing-attacks-against-web-applications-are-they-still-practical  
  
