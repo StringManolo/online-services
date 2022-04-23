@@ -39,6 +39,10 @@ https://apps.evozi.com/apk-downloader/
 * https://private-base.info/  
 * https://4iq.com/  
   
+# Privacy  
+### DNS Leak Test  
+https://www.dnsleaktest.com/  
+
 # Programming Languages
 ### Javascript resources for the language and frameworks  
 https://github.com/arman37/planet-javascript  
