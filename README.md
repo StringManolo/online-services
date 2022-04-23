@@ -20,6 +20,9 @@ https://github.com/song940/node-dns
 &nbsp;  
   
 # Emails
+#### Allow Third Party Software to use your gmail account to send mails
+https://myaccount.google.com/u/3/lesssecureapps
+
 #### Email Generators  
 * https://generator.email/  
   
