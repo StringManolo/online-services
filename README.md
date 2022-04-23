@@ -96,6 +96,9 @@ https://www.dnsleaktest.com/
 #### Callbacks in C  
 https://www.tutorialspoint.com/callback-function-in-c  
 
+#### Linux Sockets in C
+https://www.binarytides.com/socket-programming-c-linux-tutorial/
+
 #### Array Buffers in Javascript  
 https://javascript.info/arraybuffer-binary-arrays
 
