@@ -95,14 +95,17 @@ https://scholar.google.com/citations?user=F8gvBUkAAAAJ&hl=en
 ### Big Hacking Book  
 https://book.hacktricks.xyz/  
 
+### Browser Side Channels  
+https://blog.vwzq.net/2021/03/browser-side-channes/  
+
 ### Minimum size valid files  
 https://github.com/mathiasbynens/small  
   
 ### Object Shadowing using Iframes 
 https://github.com/wisec/domxsswiki/wiki/Object-Shadowing  
 
-### Browser Side Channels  
-https://blog.vwzq.net/2021/03/browser-side-channes/  
+### Secure Session Management in Node  
+https://blog.jscrambler.com/best-practices-for-secure-session-management-in-node/
 
 ### Timing attacks on web  
 https://www.tadgroup.com/blog/post/timing-attacks-against-web-applications-are-they-still-practical  
