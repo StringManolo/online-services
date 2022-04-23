@@ -40,6 +40,9 @@ https://gist.github.com/sid24rane/2b10b8f4b2f814bd0851d861d3515a10
 &nbsp;  
   
 # News
+#### RSS Reader for Android
+https://github.com/spacecowboy/Feeder  
+
 #### 80+ RSS Hacking Feeds
 https://blog.feedspot.com/hacker_rss_feeds/
 
