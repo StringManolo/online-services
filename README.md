@@ -118,3 +118,5 @@ https://www.tadgroup.com/blog/post/timing-attacks-against-web-applications-are-t
 ### Create webpages/webapps that works 100% offline  
 https://web.dev/offline-cookbook/  
   
+### CSS change Android/IOS input keyboard type  
+https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/
