@@ -5,6 +5,10 @@ Usefull webpages, articles, resources...
 ### Download apks without Play Store  
 https://apps.evozi.com/apk-downloader/  
 
+# Emails
+### Email Generators  
+* https://generator.email/
+
 # OSINT
 ### Data Breach Search Engines
 * https://rslookup.com  
