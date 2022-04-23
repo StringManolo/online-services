@@ -39,6 +39,13 @@ https://gist.github.com/sid24rane/2b10b8f4b2f814bd0851d861d3515a10
   
 &nbsp;  
   
+# News
+#### 80+ RSS Hacking Feeds
+https://blog.feedspot.com/hacker_rss_feeds/
+
+&nbsp;  
+  
+  
 # OSINT
 #### Data Breach Search Engines
 * https://rslookup.com  
