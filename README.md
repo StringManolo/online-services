@@ -2,42 +2,42 @@
 Usefull webpages, articles, resources...
 
 # Android  
-### Download apks without Play Store  
+#### Download apks without Play Store  
 https://apps.evozi.com/apk-downloader/  
   
 &nbsp;  
   
 # Bug Hunting  
-### Top Hackerone Disclosed Reports  
+#### Top Hackerone Disclosed Reports  
 https://github.com/reddelexc/hackerone-reports  
   
 &nbsp;  
   
 # DNS
-### DNS Server Code
+#### DNS Server Code
 https://github.com/song940/node-dns  
   
 &nbsp;  
   
 # Emails
-### Email Generators  
+#### Email Generators  
 * https://generator.email/  
   
 &nbsp;  
   
 # Malware
-### Antidebugging techniques in javascript  
+#### Antidebugging techniques in javascript  
 https://x-c3ll.github.io/posts/javascript-antidebugging/
   
 
 # Networks
-### Sample of TCP client/server in Node
+#### Sample of TCP client/server in Node
 https://gist.github.com/sid24rane/2b10b8f4b2f814bd0851d861d3515a10
   
 &nbsp;  
   
 # OSINT
-### Data Breach Search Engines
+#### Data Breach Search Engines
 * https://rslookup.com  
 * https://intelx.io  
 * https://leakcheck.net  
@@ -69,28 +69,28 @@ https://gist.github.com/sid24rane/2b10b8f4b2f814bd0851d861d3515a10
 &nbsp;  
 
 # Performance  
-WebAssembly + Rust for improvment of Nodejs performance
+#### WebAssembly + Rust for improvment of Nodejs performance
 https://developer.ibm.com/articles/why-webassembly-and-rust-together-improve-nodejs-performance/
 
 &nbsp;  
   
 # Privacy  
-### DNS Leak Test  
+#### DNS Leak Test  
 https://www.dnsleaktest.com/  
   
 &nbsp;  
   
 # Programming Languages
-### Array Buffers in Javascript  
+#### Array Buffers in Javascript  
 https://javascript.info/arraybuffer-binary-arrays
 
-### Javascript resources for the language and frameworks  
+#### Javascript resources for the language and frameworks  
 https://github.com/arman37/planet-javascript  
 
-### Replazing switch statements by object literals  
+#### Replazing switch statements by object literals  
 https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
   
-### Learn Lua in 15 minutes  
+#### Learn Lua in 15 minutes  
 https://tylerneylon.com/a/learn-lua/  
 ### Introduction to Lua C Api  
 https://sodocumentation.net/lua/topic/671/introduction-to-lua-c-api  
@@ -98,39 +98,39 @@ https://sodocumentation.net/lua/topic/671/introduction-to-lua-c-api
 &nbsp;  
   
 # Security
-### Air Gapping Networks Attacks  
+#### Air Gapping Networks Attacks  
 https://scholar.google.com/citations?user=F8gvBUkAAAAJ&hl=en  
 
-### Big Hacking Book  
+#### Big Hacking Book  
 https://book.hacktricks.xyz/  
 
-### Browser Side Channels  
+#### Browser Side Channels  
 https://blog.vwzq.net/2021/03/browser-side-channes/  
 
-### Minimum size valid files  
+#### Minimum size valid files  
 https://github.com/mathiasbynens/small  
   
-### Object Shadowing using Iframes 
+#### Object Shadowing using Iframes 
 https://github.com/wisec/domxsswiki/wiki/Object-Shadowing  
 
-### Secure Session Management in Node  
+#### Secure Session Management in Node  
 https://blog.jscrambler.com/best-practices-for-secure-session-management-in-node/
 
-### Timing attacks on web  
+#### Timing attacks on web  
 https://www.tadgroup.com/blog/post/timing-attacks-against-web-applications-are-they-still-practical  
  
 &nbsp;  
   
 # Web Development  
-### Create webpages/webapps that works 100% offline  
+#### Create webpages/webapps that works 100% offline  
 https://web.dev/offline-cookbook/  
   
-### CSS 10 basic tricks  
+#### CSS 10 basic tricks  
 https://flexiple.com/javascript/10-practical-css-tricks-every-developer-should-know/#section4
 
-### CSS change Android/IOS input keyboard type  
+#### CSS change Android/IOS input keyboard type  
 https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/
 
-### CSS reset/normalize
+#### CSS reset/normalize
 * https://github.com/necolas/normalize.css/  
 * https://meyerweb.com/eric/tools/css/reset/  
