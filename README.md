@@ -102,6 +102,9 @@ https://www.binarytides.com/socket-programming-c-linux-tutorial/
 #### Array Buffers in Javascript  
 https://javascript.info/arraybuffer-binary-arrays
 
+#### Core JS library
+https://github.com/zloirock/core-js
+
 #### Javascript resources for the language and frameworks  
 https://github.com/arman37/planet-javascript  
 
