@@ -72,6 +72,9 @@ https://www.dnsleaktest.com/
 # Programming Languages
 ### Javascript resources for the language and frameworks  
 https://github.com/arman37/planet-javascript  
+
+### Replazing switch statements by object literals  
+https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
   
 ### Learn Lua in 15 minutes  
 https://tylerneylon.com/a/learn-lua/  
