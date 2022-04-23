@@ -57,7 +57,9 @@ https://github.com/arman37/planet-javascript
 
 ### Learn Lua in 15 minutes  
 https://tylerneylon.com/a/learn-lua/  
-
+### Introduction to Lua C Api  
+https://sodocumentation.net/lua/topic/671/introduction-to-lua-c-api  
+  
 # Security
 ### Timing attacks on web  
 https://www.tadgroup.com/blog/post/timing-attacks-against-web-applications-are-they-still-practical  
