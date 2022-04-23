@@ -81,6 +81,9 @@ https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm
 #### WebAssembly + Rust for improvment of Nodejs performance
 https://developer.ibm.com/articles/why-webassembly-and-rust-together-improve-nodejs-performance/
 
+#### Improve performance using DOM
+https://dev.to/grandemayta/javascript-dom-manipulation-to-improve-performance-459a
+
 &nbsp;  
   
 # Privacy  
