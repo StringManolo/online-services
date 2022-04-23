@@ -4,19 +4,27 @@ Usefull webpages, articles, resources...
 # Android  
 ### Download apks without Play Store  
 https://apps.evozi.com/apk-downloader/  
-
+  
+&nbsp;  
+  
 # DNS
 ### DNS Server Code
-https://github.com/song940/node-dns
-
+https://github.com/song940/node-dns  
+  
+&nbsp;  
+  
 # Emails
 ### Email Generators  
-* https://generator.email/
-
+* https://generator.email/  
+  
+&nbsp;  
+  
 # Networks
 ### Sample of TCP client/server in Node
 https://gist.github.com/sid24rane/2b10b8f4b2f814bd0851d861d3515a10
-
+  
+&nbsp;  
+  
 # OSINT
 ### Data Breach Search Engines
 * https://rslookup.com  
@@ -47,24 +55,31 @@ https://gist.github.com/sid24rane/2b10b8f4b2f814bd0851d861d3515a10
 * https://private-base.info/  
 * https://4iq.com/  
   
+&nbsp;  
+  
 # Privacy  
 ### DNS Leak Test  
 https://www.dnsleaktest.com/  
-
+  
+&nbsp;  
+  
 # Programming Languages
 ### Javascript resources for the language and frameworks  
 https://github.com/arman37/planet-javascript  
-
+  
 ### Learn Lua in 15 minutes  
 https://tylerneylon.com/a/learn-lua/  
 ### Introduction to Lua C Api  
 https://sodocumentation.net/lua/topic/671/introduction-to-lua-c-api  
   
+&nbsp;  
+  
 # Security
 ### Timing attacks on web  
 https://www.tadgroup.com/blog/post/timing-attacks-against-web-applications-are-they-still-practical  
-
-
+  
+&nbsp;  
+  
 # Web Development  
 ### Create webpages/webapps that works 100% offline  
 https://web.dev/offline-cookbook/  
