@@ -120,3 +120,7 @@ https://web.dev/offline-cookbook/
   
 ### CSS change Android/IOS input keyboard type  
 https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/
+
+### Reset/Normalice CSS  
+* https://github.com/necolas/normalize.css/  
+* https://meyerweb.com/eric/tools/css/reset/  
