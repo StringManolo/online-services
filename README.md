@@ -90,6 +90,9 @@ https://github.com/mathiasbynens/small
 ### Object Shadowing using Iframes 
 https://github.com/wisec/domxsswiki/wiki/Object-Shadowing  
 
+### Browser Side Channels  
+https://blog.vwzq.net/2021/03/browser-side-channes/  
+
 ### Timing attacks on web  
 https://www.tadgroup.com/blog/post/timing-attacks-against-web-applications-are-they-still-practical  
  
