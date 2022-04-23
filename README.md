@@ -75,6 +75,9 @@ https://www.dnsleaktest.com/
 &nbsp;  
   
 # Programming Languages
+### Array Buffers in Javascript  
+https://javascript.info/arraybuffer-binary-arrays
+
 ### Javascript resources for the language and frameworks  
 https://github.com/arman37/planet-javascript  
 
