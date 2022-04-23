@@ -81,6 +81,9 @@ https://sodocumentation.net/lua/topic/671/introduction-to-lua-c-api
 &nbsp;  
   
 # Security
+### Air Gapping Networks Attacks  
+https://scholar.google.com/citations?user=F8gvBUkAAAAJ&hl=en  
+
 ### Big Hacking Book  
 https://book.hacktricks.xyz/  
 
