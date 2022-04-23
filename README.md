@@ -13,6 +13,10 @@ https://github.com/song940/node-dns
 ### Email Generators  
 * https://generator.email/
 
+# Networks
+### Sample
+https://gist.github.com/sid24rane/2b10b8f4b2f814bd0851d861d3515a10
+
 # OSINT
 ### Data Breach Search Engines
 * https://rslookup.com  
