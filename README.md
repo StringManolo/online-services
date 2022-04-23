@@ -111,6 +111,9 @@ https://github.com/arman37/planet-javascript
 #### Replazing switch statements by object literals  
 https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
   
+#### Create and Test Regular Expressions Online
+https://regex101.com/
+
 #### Learn Lua in 15 minutes  
 https://tylerneylon.com/a/learn-lua/  
 ### Introduction to Lua C Api  
