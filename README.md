@@ -128,6 +128,9 @@ https://book.hacktricks.xyz/
 #### Browser Side Channels  
 https://blog.vwzq.net/2021/03/browser-side-channes/  
 
+#### Hardware WAF using Android
+https://www.programmersought.com/article/79664216028/
+
 #### Minimum size valid files  
 https://github.com/mathiasbynens/small  
   
