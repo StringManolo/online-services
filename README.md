@@ -14,7 +14,7 @@ https://github.com/song940/node-dns
 * https://generator.email/
 
 # Networks
-### Sample
+### Sample of TCP client/server in Node
 https://gist.github.com/sid24rane/2b10b8f4b2f814bd0851d861d3515a10
 
 # OSINT
