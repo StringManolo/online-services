@@ -75,8 +75,13 @@ https://sodocumentation.net/lua/topic/671/introduction-to-lua-c-api
 &nbsp;  
   
 # Security
+### Minimum size valid files  
+https://github.com/mathiasbynens/small  
+  
 ### Timing attacks on web  
 https://www.tadgroup.com/blog/post/timing-attacks-against-web-applications-are-they-still-practical  
+ 
+
   
 &nbsp;  
   
