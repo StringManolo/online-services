@@ -8,6 +8,9 @@ Download apks without Play Store
 # Programming Languages
 ### https://tylerneylon.com/a/learn-lua/  
 Learn Lua in 15 minutes  
+
+### https://github.com/arman37/planet-javascript  
+Javascript resources for the language and frameworks
   
 # Web Development  
 ### https://web.dev/offline-cookbook/  
