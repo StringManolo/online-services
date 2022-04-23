@@ -25,6 +25,11 @@ https://github.com/song940/node-dns
   
 &nbsp;  
   
+# Malware
+### Antidebugging techniques in javascript  
+https://x-c3ll.github.io/posts/javascript-antidebugging/
+  
+
 # Networks
 ### Sample of TCP client/server in Node
 https://gist.github.com/sid24rane/2b10b8f4b2f814bd0851d861d3515a10
