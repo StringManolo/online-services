@@ -7,6 +7,12 @@ https://apps.evozi.com/apk-downloader/
   
 &nbsp;  
   
+# Bug Hunting  
+### Top Hackerone Disclosed Reports  
+https://github.com/reddelexc/hackerone-reports  
+  
+&nbsp;  
+  
 # DNS
 ### DNS Server Code
 https://github.com/song940/node-dns  
