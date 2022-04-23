@@ -75,6 +75,9 @@ https://sodocumentation.net/lua/topic/671/introduction-to-lua-c-api
 &nbsp;  
   
 # Security
+### Big Hacking Book  
+https://book.hacktricks.xyz/  
+
 ### Minimum size valid files  
 https://github.com/mathiasbynens/small  
   
