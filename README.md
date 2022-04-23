@@ -72,6 +72,9 @@ https://24timezones.com/hora_mundial2.php
 &nbsp;  
 
 # Performance  
+#### Compile Rust to web assembler  
+https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm  
+
 #### WebAssembly + Rust for improvment of Nodejs performance
 https://developer.ibm.com/articles/why-webassembly-and-rust-together-improve-nodejs-performance/
 
