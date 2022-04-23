@@ -67,6 +67,12 @@ https://gist.github.com/sid24rane/2b10b8f4b2f814bd0851d861d3515a10
 * https://4iq.com/  
   
 &nbsp;  
+
+# Performance  
+WebAssembly + Rust for improvment of Nodejs performance
+https://developer.ibm.com/articles/why-webassembly-and-rust-together-improve-nodejs-performance/
+
+&nbsp;  
   
 # Privacy  
 ### DNS Leak Test  
@@ -113,8 +119,6 @@ https://blog.jscrambler.com/best-practices-for-secure-session-management-in-node
 ### Timing attacks on web  
 https://www.tadgroup.com/blog/post/timing-attacks-against-web-applications-are-they-still-practical  
  
-
-  
 &nbsp;  
   
 # Web Development  
