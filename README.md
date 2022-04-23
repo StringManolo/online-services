@@ -113,6 +113,9 @@ https://sodocumentation.net/lua/topic/671/introduction-to-lua-c-api
 #### Air Gapping Networks Attacks  
 https://scholar.google.com/citations?user=F8gvBUkAAAAJ&hl=en  
 
+#### ALPACA Cross Protocol TLS Attacks
+https://blog.elhacker.net/2021/06/alpaca-un-nuevo-tipo-de-ataque-man-in-the-middle-MITM-https.html
+
 #### Big Hacking Book  
 https://book.hacktricks.xyz/  
 
