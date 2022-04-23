@@ -43,7 +43,9 @@ https://github.com/arman37/planet-javascript
 https://tylerneylon.com/a/learn-lua/  
 
 # Security
-### Time attacks on web
+### Timing attacks on web  
+https://www.tadgroup.com/blog/post/timing-attacks-against-web-applications-are-they-still-practical  
+
 
 # Web Development  
 ### Create webpages/webapps that works 100% offline  
